@@ -4,7 +4,7 @@
        
         <url>
             <loc>https://jurf.github.io/daap/</loc>
-            <lastmod>2024-12-14T13:15:49.039Z</lastmod>
+            <lastmod>2024-12-14T14:13:09.283Z</lastmod>
             <changefreq>daily</changefreq>
         </url>
         
@@ -12,15 +12,7 @@
        
         <url>
             <loc>https://jurf.github.io/daap/methodology/</loc>
-            <lastmod>2024-12-14T13:15:49.052Z</lastmod>
-            <changefreq>daily</changefreq>
-        </url>
-        
-    
-       
-        <url>
-            <loc>https://jurf.github.io/daap/methodology/existing-resources/</loc>
-            <lastmod>2024-12-14T13:15:49.053Z</lastmod>
+            <lastmod>2024-12-14T14:13:09.285Z</lastmod>
             <changefreq>daily</changefreq>
         </url>
         
@@ -28,7 +20,15 @@
        
         <url>
             <loc>https://jurf.github.io/daap/methodology/scope-of-this-work/</loc>
-            <lastmod>2024-12-14T13:15:49.053Z</lastmod>
+            <lastmod>2024-12-14T14:13:09.285Z</lastmod>
+            <changefreq>daily</changefreq>
+        </url>
+        
+    
+       
+        <url>
+            <loc>https://jurf.github.io/daap/methodology/existing-resources/</loc>
+            <lastmod>2024-12-14T14:13:09.286Z</lastmod>
             <changefreq>daily</changefreq>
         </url>
         
@@ -36,7 +36,7 @@
        
         <url>
             <loc>https://jurf.github.io/daap/methodology/selection-process/</loc>
-            <lastmod>2024-12-14T13:15:49.053Z</lastmod>
+            <lastmod>2024-12-14T14:13:09.286Z</lastmod>
             <changefreq>daily</changefreq>
         </url>
         
@@ -44,7 +44,7 @@
        
         <url>
             <loc>https://jurf.github.io/daap/methodology/categorisation/</loc>
-            <lastmod>2024-12-14T13:15:49.054Z</lastmod>
+            <lastmod>2024-12-14T14:13:09.287Z</lastmod>
             <changefreq>daily</changefreq>
         </url>
         
@@ -52,7 +52,7 @@
        
         <url>
             <loc>https://jurf.github.io/daap/methodology/pattern-construction/</loc>
-            <lastmod>2024-12-14T13:15:49.054Z</lastmod>
+            <lastmod>2024-12-14T14:13:09.287Z</lastmod>
             <changefreq>daily</changefreq>
         </url>
         
@@ -60,7 +60,7 @@
        
         <url>
             <loc>https://jurf.github.io/daap/design-and-implementation/</loc>
-            <lastmod>2024-12-14T13:15:49.055Z</lastmod>
+            <lastmod>2024-12-14T14:13:09.288Z</lastmod>
             <changefreq>daily</changefreq>
         </url>
         
@@ -68,15 +68,7 @@
        
         <url>
             <loc>https://jurf.github.io/daap/design-and-implementation/inspiration/</loc>
-            <lastmod>2024-12-14T13:15:49.055Z</lastmod>
-            <changefreq>daily</changefreq>
-        </url>
-        
-    
-       
-        <url>
-            <loc>https://jurf.github.io/daap/design-and-implementation/technologies/</loc>
-            <lastmod>2024-12-14T13:15:49.056Z</lastmod>
+            <lastmod>2024-12-14T14:13:09.288Z</lastmod>
             <changefreq>daily</changefreq>
         </url>
         
@@ -84,7 +76,15 @@
        
         <url>
             <loc>https://jurf.github.io/daap/design-and-implementation/visual-style/</loc>
-            <lastmod>2024-12-14T13:15:49.056Z</lastmod>
+            <lastmod>2024-12-14T14:13:09.288Z</lastmod>
+            <changefreq>daily</changefreq>
+        </url>
+        
+    
+       
+        <url>
+            <loc>https://jurf.github.io/daap/design-and-implementation/technologies/</loc>
+            <lastmod>2024-12-14T14:13:09.289Z</lastmod>
             <changefreq>daily</changefreq>
         </url>
         
@@ -92,7 +92,7 @@
        
         <url>
             <loc>https://jurf.github.io/daap/design-and-implementation/design-process/</loc>
-            <lastmod>2024-12-14T13:15:49.057Z</lastmod>
+            <lastmod>2024-12-14T14:13:09.290Z</lastmod>
             <changefreq>daily</changefreq>
         </url>
         
@@ -100,15 +100,7 @@
        
         <url>
             <loc>https://jurf.github.io/daap/overview-of-the-patterns/</loc>
-            <lastmod>2024-12-14T13:15:49.057Z</lastmod>
-            <changefreq>daily</changefreq>
-        </url>
-        
-    
-       
-        <url>
-            <loc>https://jurf.github.io/daap/overview-of-the-patterns/overview-diagram/</loc>
-            <lastmod>2024-12-14T13:15:49.058Z</lastmod>
+            <lastmod>2024-12-14T14:13:09.290Z</lastmod>
             <changefreq>daily</changefreq>
         </url>
         
@@ -116,7 +108,7 @@
        
         <url>
             <loc>https://jurf.github.io/daap/overview-of-the-patterns/prerequisites/</loc>
-            <lastmod>2024-12-14T13:15:49.058Z</lastmod>
+            <lastmod>2024-12-14T14:13:09.290Z</lastmod>
             <changefreq>daily</changefreq>
         </url>
         
@@ -124,23 +116,15 @@
        
         <url>
             <loc>https://jurf.github.io/daap/overview-of-the-patterns/conventions-used/</loc>
-            <lastmod>2024-12-14T13:15:49.059Z</lastmod>
+            <lastmod>2024-12-14T14:13:09.291Z</lastmod>
             <changefreq>daily</changefreq>
         </url>
         
     
        
         <url>
-            <loc>https://jurf.github.io/daap/overview-of-the-patterns/terminology/</loc>
-            <lastmod>2024-12-14T13:15:49.059Z</lastmod>
-            <changefreq>daily</changefreq>
-        </url>
-        
-    
-       
-        <url>
-            <loc>https://jurf.github.io/daap/communication-patterns/</loc>
-            <lastmod>2024-12-14T13:15:49.060Z</lastmod>
+            <loc>https://jurf.github.io/daap/overview-of-the-patterns/overview-diagram/</loc>
+            <lastmod>2024-12-14T14:13:09.291Z</lastmod>
             <changefreq>daily</changefreq>
         </url>
         
@@ -148,7 +132,15 @@
        
         <url>
             <loc>https://jurf.github.io/daap/overview-of-the-patterns/example-application/</loc>
-            <lastmod>2024-12-14T13:15:49.060Z</lastmod>
+            <lastmod>2024-12-14T14:13:09.292Z</lastmod>
+            <changefreq>daily</changefreq>
+        </url>
+        
+    
+       
+        <url>
+            <loc>https://jurf.github.io/daap/overview-of-the-patterns/terminology/</loc>
+            <lastmod>2024-12-14T14:13:09.292Z</lastmod>
             <changefreq>daily</changefreq>
         </url>
         
@@ -156,7 +148,15 @@
        
         <url>
             <loc>https://jurf.github.io/daap/communication-patterns/gateway-routing/</loc>
-            <lastmod>2024-12-14T13:15:49.061Z</lastmod>
+            <lastmod>2024-12-14T14:13:09.293Z</lastmod>
+            <changefreq>daily</changefreq>
+        </url>
+        
+    
+       
+        <url>
+            <loc>https://jurf.github.io/daap/communication-patterns/</loc>
+            <lastmod>2024-12-14T14:13:09.293Z</lastmod>
             <changefreq>daily</changefreq>
         </url>
         
@@ -164,7 +164,7 @@
        
         <url>
             <loc>https://jurf.github.io/daap/communication-patterns/publisher-subscriber/</loc>
-            <lastmod>2024-12-14T13:15:49.061Z</lastmod>
+            <lastmod>2024-12-14T14:13:09.293Z</lastmod>
             <changefreq>daily</changefreq>
         </url>
         
@@ -172,7 +172,7 @@
        
         <url>
             <loc>https://jurf.github.io/daap/communication-patterns/asynchronous-request-reply/</loc>
-            <lastmod>2024-12-14T13:15:49.062Z</lastmod>
+            <lastmod>2024-12-14T14:13:09.294Z</lastmod>
             <changefreq>daily</changefreq>
         </url>
         
@@ -180,7 +180,7 @@
        
         <url>
             <loc>https://jurf.github.io/daap/decomposition-patterns/</loc>
-            <lastmod>2024-12-14T13:15:49.062Z</lastmod>
+            <lastmod>2024-12-14T14:13:09.295Z</lastmod>
             <changefreq>daily</changefreq>
         </url>
         
@@ -188,7 +188,7 @@
        
         <url>
             <loc>https://jurf.github.io/daap/decomposition-patterns/sidecar/</loc>
-            <lastmod>2024-12-14T13:15:49.063Z</lastmod>
+            <lastmod>2024-12-14T14:13:09.295Z</lastmod>
             <changefreq>daily</changefreq>
         </url>
         
@@ -196,7 +196,7 @@
        
         <url>
             <loc>https://jurf.github.io/daap/decomposition-patterns/ambassador/</loc>
-            <lastmod>2024-12-14T13:15:49.064Z</lastmod>
+            <lastmod>2024-12-14T14:13:09.296Z</lastmod>
             <changefreq>daily</changefreq>
         </url>
         
@@ -204,7 +204,7 @@
        
         <url>
             <loc>https://jurf.github.io/daap/decomposition-patterns/offload-to-gateway/</loc>
-            <lastmod>2024-12-14T13:15:49.064Z</lastmod>
+            <lastmod>2024-12-14T14:13:09.296Z</lastmod>
             <changefreq>daily</changefreq>
         </url>
         
@@ -212,7 +212,7 @@
        
         <url>
             <loc>https://jurf.github.io/daap/decomposition-patterns/backend-for-frontend/</loc>
-            <lastmod>2024-12-14T13:15:49.065Z</lastmod>
+            <lastmod>2024-12-14T14:13:09.297Z</lastmod>
             <changefreq>daily</changefreq>
         </url>
         
@@ -220,7 +220,7 @@
        
         <url>
             <loc>https://jurf.github.io/daap/scalability-patterns/</loc>
-            <lastmod>2024-12-14T13:15:49.065Z</lastmod>
+            <lastmod>2024-12-14T14:13:09.297Z</lastmod>
             <changefreq>daily</changefreq>
         </url>
         
@@ -228,7 +228,7 @@
        
         <url>
             <loc>https://jurf.github.io/daap/scalability-patterns/competing-consumers-load-balancer/</loc>
-            <lastmod>2024-12-14T13:15:49.066Z</lastmod>
+            <lastmod>2024-12-14T14:13:09.298Z</lastmod>
             <changefreq>daily</changefreq>
         </url>
         
@@ -236,7 +236,7 @@
        
         <url>
             <loc>https://jurf.github.io/daap/scalability-patterns/partitioning/</loc>
-            <lastmod>2024-12-14T13:15:49.066Z</lastmod>
+            <lastmod>2024-12-14T14:13:09.298Z</lastmod>
             <changefreq>daily</changefreq>
         </url>
         
@@ -244,7 +244,7 @@
        
         <url>
             <loc>https://jurf.github.io/daap/scalability-patterns/externalised-configuration/</loc>
-            <lastmod>2024-12-14T13:15:49.067Z</lastmod>
+            <lastmod>2024-12-14T14:13:09.299Z</lastmod>
             <changefreq>daily</changefreq>
         </url>
         
@@ -252,7 +252,7 @@
        
         <url>
             <loc>https://jurf.github.io/daap/scalability-patterns/scatter-gather/</loc>
-            <lastmod>2024-12-14T13:15:49.067Z</lastmod>
+            <lastmod>2024-12-14T14:13:09.299Z</lastmod>
             <changefreq>daily</changefreq>
         </url>
         
@@ -260,7 +260,7 @@
        
         <url>
             <loc>https://jurf.github.io/daap/resilience-and-reliability-patterns/bulkheads/</loc>
-            <lastmod>2024-12-14T13:15:49.068Z</lastmod>
+            <lastmod>2024-12-14T14:13:09.300Z</lastmod>
             <changefreq>daily</changefreq>
         </url>
         
@@ -268,7 +268,7 @@
        
         <url>
             <loc>https://jurf.github.io/daap/resilience-and-reliability-patterns/</loc>
-            <lastmod>2024-12-14T13:15:49.068Z</lastmod>
+            <lastmod>2024-12-14T14:13:09.300Z</lastmod>
             <changefreq>daily</changefreq>
         </url>
         
@@ -276,7 +276,7 @@
        
         <url>
             <loc>https://jurf.github.io/daap/resilience-and-reliability-patterns/queue-based-load-leveling/</loc>
-            <lastmod>2024-12-14T13:15:49.068Z</lastmod>
+            <lastmod>2024-12-14T14:13:09.301Z</lastmod>
             <changefreq>daily</changefreq>
         </url>
         
@@ -284,7 +284,7 @@
        
         <url>
             <loc>https://jurf.github.io/daap/resilience-and-reliability-patterns/health-monitoring/</loc>
-            <lastmod>2024-12-14T13:15:49.069Z</lastmod>
+            <lastmod>2024-12-14T14:13:09.302Z</lastmod>
             <changefreq>daily</changefreq>
         </url>
         
@@ -292,15 +292,7 @@
        
         <url>
             <loc>https://jurf.github.io/daap/resilience-and-reliability-patterns/retry/</loc>
-            <lastmod>2024-12-14T13:15:49.069Z</lastmod>
-            <changefreq>daily</changefreq>
-        </url>
-        
-    
-       
-        <url>
-            <loc>https://jurf.github.io/daap/resilience-and-reliability-patterns/leader-and-followers/</loc>
-            <lastmod>2024-12-14T13:15:49.070Z</lastmod>
+            <lastmod>2024-12-14T14:13:09.302Z</lastmod>
             <changefreq>daily</changefreq>
         </url>
         
@@ -308,7 +300,7 @@
        
         <url>
             <loc>https://jurf.github.io/daap/resilience-and-reliability-patterns/rate-limiting/</loc>
-            <lastmod>2024-12-14T13:15:49.070Z</lastmod>
+            <lastmod>2024-12-14T14:13:09.303Z</lastmod>
             <changefreq>daily</changefreq>
         </url>
         
@@ -316,23 +308,7 @@
        
         <url>
             <loc>https://jurf.github.io/daap/performance-and-latency-patterns/circuit-breaker/</loc>
-            <lastmod>2024-12-14T13:15:49.071Z</lastmod>
-            <changefreq>daily</changefreq>
-        </url>
-        
-    
-       
-        <url>
-            <loc>https://jurf.github.io/daap/performance-and-latency-patterns/</loc>
-            <lastmod>2024-12-14T13:15:49.071Z</lastmod>
-            <changefreq>daily</changefreq>
-        </url>
-        
-    
-       
-        <url>
-            <loc>https://jurf.github.io/daap/performance-and-latency-patterns/aggregating-gateway/</loc>
-            <lastmod>2024-12-14T13:15:49.072Z</lastmod>
+            <lastmod>2024-12-14T14:13:09.304Z</lastmod>
             <changefreq>daily</changefreq>
         </url>
         
@@ -340,7 +316,31 @@
        
         <url>
             <loc>https://jurf.github.io/daap/performance-and-latency-patterns/colocate/</loc>
-            <lastmod>2024-12-14T13:15:49.072Z</lastmod>
+            <lastmod>2024-12-14T14:13:09.304Z</lastmod>
+            <changefreq>daily</changefreq>
+        </url>
+        
+    
+       
+        <url>
+            <loc>https://jurf.github.io/daap/performance-and-latency-patterns/</loc>
+            <lastmod>2024-12-14T14:13:09.304Z</lastmod>
+            <changefreq>daily</changefreq>
+        </url>
+        
+    
+       
+        <url>
+            <loc>https://jurf.github.io/daap/resilience-and-reliability-patterns/leader-and-followers/</loc>
+            <lastmod>2024-12-14T14:13:09.304Z</lastmod>
+            <changefreq>daily</changefreq>
+        </url>
+        
+    
+       
+        <url>
+            <loc>https://jurf.github.io/daap/performance-and-latency-patterns/aggregating-gateway/</loc>
+            <lastmod>2024-12-14T14:13:09.305Z</lastmod>
             <changefreq>daily</changefreq>
         </url>
         
@@ -348,7 +348,7 @@
        
         <url>
             <loc>https://jurf.github.io/daap/performance-and-latency-patterns/claim-check/</loc>
-            <lastmod>2024-12-14T13:15:49.073Z</lastmod>
+            <lastmod>2024-12-14T14:13:09.306Z</lastmod>
             <changefreq>daily</changefreq>
         </url>
         
@@ -356,7 +356,7 @@
        
         <url>
             <loc>https://jurf.github.io/daap/performance-and-latency-patterns/command-and-query-responsibility-segregation/</loc>
-            <lastmod>2024-12-14T13:15:49.073Z</lastmod>
+            <lastmod>2024-12-14T14:13:09.306Z</lastmod>
             <changefreq>daily</changefreq>
         </url>
         
@@ -364,7 +364,7 @@
        
         <url>
             <loc>https://jurf.github.io/daap/security-patterns/identity-provider-federated-identity/</loc>
-            <lastmod>2024-12-14T13:15:49.074Z</lastmod>
+            <lastmod>2024-12-14T14:13:09.307Z</lastmod>
             <changefreq>daily</changefreq>
         </url>
         
@@ -372,7 +372,7 @@
        
         <url>
             <loc>https://jurf.github.io/daap/security-patterns/</loc>
-            <lastmod>2024-12-14T13:15:49.074Z</lastmod>
+            <lastmod>2024-12-14T14:13:09.307Z</lastmod>
             <changefreq>daily</changefreq>
         </url>
         
@@ -380,7 +380,7 @@
        
         <url>
             <loc>https://jurf.github.io/daap/consistency-patterns/</loc>
-            <lastmod>2024-12-14T13:15:49.075Z</lastmod>
+            <lastmod>2024-12-14T14:13:09.308Z</lastmod>
             <changefreq>daily</changefreq>
         </url>
         
@@ -388,7 +388,7 @@
        
         <url>
             <loc>https://jurf.github.io/daap/security-patterns/gatekeeper/</loc>
-            <lastmod>2024-12-14T13:15:49.075Z</lastmod>
+            <lastmod>2024-12-14T14:13:09.308Z</lastmod>
             <changefreq>daily</changefreq>
         </url>
         
@@ -396,7 +396,7 @@
        
         <url>
             <loc>https://jurf.github.io/daap/consistency-patterns/transaction-based-processor/</loc>
-            <lastmod>2024-12-14T13:15:49.076Z</lastmod>
+            <lastmod>2024-12-14T14:13:09.309Z</lastmod>
             <changefreq>daily</changefreq>
         </url>
         
@@ -404,7 +404,7 @@
        
         <url>
             <loc>https://jurf.github.io/daap/consistency-patterns/transactional-outbox/</loc>
-            <lastmod>2024-12-14T13:15:49.076Z</lastmod>
+            <lastmod>2024-12-14T14:13:09.309Z</lastmod>
             <changefreq>daily</changefreq>
         </url>
         
@@ -412,7 +412,7 @@
        
         <url>
             <loc>https://jurf.github.io/daap/consistency-patterns/choreography-based-sagas/</loc>
-            <lastmod>2024-12-14T13:15:49.077Z</lastmod>
+            <lastmod>2024-12-14T14:13:09.310Z</lastmod>
             <changefreq>daily</changefreq>
         </url>
         
@@ -420,7 +420,7 @@
        
         <url>
             <loc>https://jurf.github.io/daap/consistency-patterns/saga/</loc>
-            <lastmod>2024-12-14T13:15:49.077Z</lastmod>
+            <lastmod>2024-12-14T14:13:09.310Z</lastmod>
             <changefreq>daily</changefreq>
         </url>
         
@@ -428,7 +428,7 @@
        
         <url>
             <loc>https://jurf.github.io/daap/consistency-patterns/event-sourcing/</loc>
-            <lastmod>2024-12-14T13:15:49.078Z</lastmod>
+            <lastmod>2024-12-14T14:13:09.311Z</lastmod>
             <changefreq>daily</changefreq>
         </url>
         
@@ -436,7 +436,7 @@
        
         <url>
             <loc>https://jurf.github.io/daap/consistency-patterns/orchestration-based-sagas/</loc>
-            <lastmod>2024-12-14T13:15:49.078Z</lastmod>
+            <lastmod>2024-12-14T14:13:09.311Z</lastmod>
             <changefreq>daily</changefreq>
         </url>
         
@@ -444,7 +444,7 @@
        
         <url>
             <loc>https://jurf.github.io/daap/migration-and-compatibility-patterns/anti-corruption-layer/</loc>
-            <lastmod>2024-12-14T13:15:49.079Z</lastmod>
+            <lastmod>2024-12-14T14:13:09.312Z</lastmod>
             <changefreq>daily</changefreq>
         </url>
         
@@ -452,7 +452,7 @@
        
         <url>
             <loc>https://jurf.github.io/daap/migration-and-compatibility-patterns/</loc>
-            <lastmod>2024-12-14T13:15:49.079Z</lastmod>
+            <lastmod>2024-12-14T14:13:09.312Z</lastmod>
             <changefreq>daily</changefreq>
         </url>
         
@@ -460,7 +460,7 @@
        
         <url>
             <loc>https://jurf.github.io/daap/migration-and-compatibility-patterns/incremental-replacement/</loc>
-            <lastmod>2024-12-14T13:15:49.080Z</lastmod>
+            <lastmod>2024-12-14T14:13:09.313Z</lastmod>
             <changefreq>daily</changefreq>
         </url>
         
@@ -468,7 +468,7 @@
        
         <url>
             <loc>https://jurf.github.io/daap/migration-and-compatibility-patterns/messaging-bridge/</loc>
-            <lastmod>2024-12-14T13:15:49.080Z</lastmod>
+            <lastmod>2024-12-14T14:13:09.313Z</lastmod>
             <changefreq>daily</changefreq>
         </url>
         
@@ -476,7 +476,7 @@
        
         <url>
             <loc>https://jurf.github.io/daap/bibliography/</loc>
-            <lastmod>2024-12-14T13:15:49.081Z</lastmod>
+            <lastmod>2024-12-14T14:13:09.314Z</lastmod>
             <changefreq>daily</changefreq>
         </url>
         
@@ -484,7 +484,7 @@
        
         <url>
             <loc>https://jurf.github.io/daap/404.html</loc>
-            <lastmod>2024-12-14T13:15:49.120Z</lastmod>
+            <lastmod>2024-12-14T14:13:09.355Z</lastmod>
             <changefreq>daily</changefreq>
         </url>
         
